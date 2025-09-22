@@ -6,7 +6,7 @@ I'm Vel (also known as "veldoodles"), a Master's level Computer Science Student 
 During freetime I play/study videogames, draw digital art and develop videogames as a hobby.
 
 ### Game Development
-I got quite a bit of experience with GODOT, but also have dabbled with Unity and Unreal. Currently I'm working on few personal projects and one of the projects is not that far being finished, with estimated release date in Summer 202.
+I got quite a bit of experience with GODOT, but also have dabbled with Unity and Unreal. Currently I'm working on few personal projects and one of the projects is not that far being finished, with estimated release date in 2026.
 I know coding, design, asset creation, art and game testing quite a bit.
 
 ### Other stuff
