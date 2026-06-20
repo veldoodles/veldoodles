@@ -10,7 +10,5 @@ I got quite a lot of experience with GODOT, but also have dabbled with Unity and
 I have experience with coding, design, asset creation, art and game testing quite a bit. I also like to participate in Game Jams once in a while.
 
 ### Other stuff
-- I also have a [Ko-Fi Page](https://ko-fi.com/veldoodles) where I have a newsletter and share stuff I make.
 - [My Itch.io page](https://veldoodles.itch.io/) where you can find games I've worked with and game jams have participated in.
-- [Bluesky](https://bsky.app/profile/veldoodles.bsky.social) where I post things ranging from video games, game development to art.
 
